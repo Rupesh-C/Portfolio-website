@@ -1,0 +1,8 @@
+{
+    "emmet.includeLanguages": {
+        ".html": "true"
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "standard.enable": false
+}
